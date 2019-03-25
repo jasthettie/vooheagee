@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahlamoogha.seikadojo.co.uk/sitemap.xml
